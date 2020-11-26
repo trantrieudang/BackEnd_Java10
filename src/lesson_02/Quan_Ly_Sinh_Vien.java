@@ -1,11 +1,6 @@
 import java.util.Scanner;
 
-/*
- * Mục đích: Tạo ra lớp để quản lý thông tin sinh viên
- * Người tạo: user
- * Ngày tạo: 04/07/2020
- * Version: 1.0
- */
+
 public class Quan_Ly_Sinh_Vien {
 	// 1. Thuộc tính/Data members/Attributes/Fields
 	private String tenSV;

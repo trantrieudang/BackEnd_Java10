@@ -1,12 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/*
- * Mục đích: Tạo ra lớp để quản lý các nghiệp vụ liên quan danh sách sinh viên
- * Người tạo: user
- * Ngày tạo: 04/07/2020
- * Version: 2.0
- */
+
 public class Danh_sach_sinh_vien {
 	// 1. Thuộc tính/Data members/Attributes/Fields
 	private ArrayList<Quan_Ly_Sinh_Vien> listSV;

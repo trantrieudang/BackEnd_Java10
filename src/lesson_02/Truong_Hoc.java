@@ -1,10 +1,5 @@
 import java.util.ArrayList;
-/*
- * Mục đích: Tạo ra lớp để quản lý các nghiệp vụ liên quan trường học
- * Người tạo: user
- * Ngày tạo: 04/07/2020
- * Version: 3.0
- */
+
 public class Truong_Hoc {
 	// 1. Thuộc tính/Data members/Attributes/Fields
 	private Danh_sach_sinh_vien objDSSV;
